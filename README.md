@@ -1,2 +1,3 @@
 Iniciando aula pratica de git e github;
-agora vou criar uma arquivo html e add tudo no github;
+agora vou criar uma arquivo html ;
+agora vamos add tudo no github;
